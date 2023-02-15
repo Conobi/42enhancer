@@ -12,17 +12,21 @@ For now, it aims to only support **42 Lyon** campus; If you want to add your cam
 - **Gnome Shell 43**
 	- Multiple Workspaces
 	- Beautiful and modern interface
-	- Reworked app with enhanced UI/UX
+	- Reworked apps with enhanced UI/UX
+	- Gradience x Adwaita on GTK3
 - Works seamlessly on native hardware
 	- Bluetooth and sound works
-	- Fractional scaling available and set
+	- Fractional scaling available
 	- Norminette, `/sgoinfre` and `/goinfre`
+	- Docker and Virtualbox
 - **Better terminal environment**
 	- Tilix, with nice colors
-	- `bat`, `lsd`, `ugrep`, `jq`, `neofetch`, `tmux`
+	- `bat`, `lsd`, `ugrep`, `jq`, `neofetch`, `tmux`, `valgrind`
 	- Oh my zsh, with useful extensions
 	- `code` executable available
-- **Native VS Code and Firefox (no crappy flatpak)**
+- **Misc native apps (no crappy flatpak)**
+	- Firefox, Chrome and Brave
+	- VS Code, CLion, Vim
 - Gradience, to customize your theme
 - A lot of fonts, and Powerline support
 - **Barrier, to share your mouse and keyboard with your second laptop**
@@ -36,16 +40,7 @@ For now, it aims to only support **42 Lyon** campus; If you want to add your cam
 
 ## Needs to be done
 These features are still not available, but they will be soon.
-- AUR packages :
-	- Chrome
-	- Brave
-	- CLion
-	- Prism Launcher
-	- Parsec
-- Session locking
-- Docker support
-- Flatpak support (? not sure)
-- Virt-manager or Virtualbox
+- Session locking (workaround possible)
 - Better shortcuts
 - DConf backup, replace and restore
 - Language support
